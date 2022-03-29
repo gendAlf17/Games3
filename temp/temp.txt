@@ -1,0 +1,10 @@
+Каталог C://Games3 создан
+Каталог C://Games3/src создан
+Каталог C://Games3/res создан
+Каталог C://Games3/savegames создан
+Каталог C://Games3/temp создан
+Каталог C://Games3/src/main создан
+Каталог C://Games3/src/test создан
+Каталог C://Games3/res/drawables создан
+Каталог C://Games3/res/vectors создан
+Каталог C://Games3/res/icons создан
